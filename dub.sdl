@@ -1,0 +1,3 @@
+name "tritter"
+dependency "arsd-official:color_base" version="~>10.9.9"
+dependency "arsd-official:simpledisplay" version="~>10.9.9"

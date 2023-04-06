@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/tritter
+tritter.so
+tritter.dylib
+tritter.dll
+tritter.a
+tritter.lib
+tritter-test-*
+*.exe
+*.o
+*.obj
+*.lst
